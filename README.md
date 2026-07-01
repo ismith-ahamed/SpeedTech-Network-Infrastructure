@@ -7,10 +7,6 @@ This project was developed as part of my academic coursework in **HND Computing 
 The project focuses on designing and configuring an enterprise network infrastructure for **SpeedTech Company** using **Cisco Packet Tracer**.
 
 
-## 🖥️ Network Diagram
-
-<img src="Network-Diagram.png" width="900">
-
 
 ## 🛠 Technologies Used
 
